@@ -4,6 +4,8 @@ const packageJson = require("./package.json"); // Get package details
 module.exports = {
   ARTISTS:[
       "Ranwan Liyanage original",
+      "hindi original",
+      "tamil original",
       "Amal Perera original",
       "Mankkalpitha original",
       "Momo original",
